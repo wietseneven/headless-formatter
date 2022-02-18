@@ -1,0 +1,10 @@
+.root {
+    @apply fixed top-1/2 w-full opacity-0;
+    transform: translateY(-50%);
+    /*transition: 1s;*/
+    z-index: -1;
+}
+
+.pattern {
+    will-change: x;
+}

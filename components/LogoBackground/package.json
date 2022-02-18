@@ -1,0 +1,8 @@
+{
+  "name": "LogoBackground",
+  "main": "./LogoBackground.tsx",
+  "dependencies": {
+    "@types/react": "latest",
+    "framer-motion": "latest"
+  }
+}
